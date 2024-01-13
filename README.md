@@ -7,7 +7,7 @@ Welcome to "30 Days of HTML" a repository with HTML challenges for beginners!
 
 <ol>
   <li>
-  <a href="https://github.com/codeskills-dev/30-days-of-html/tree/main/01%20-%20Basic%20HTML%20Page">
+  <a href="https://github.com/Alejandro-cj/30-dias-html/tree/main/01%20-%20basic%20html%20page">
     Create a basic HTML page with a heading and a paragraph
   </a>
   </li>
