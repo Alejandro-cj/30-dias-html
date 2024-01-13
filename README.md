@@ -12,6 +12,18 @@ Welcome to "30 Days of HTML" a repository with HTML challenges for beginners!
   </a>
   </li>
   
+  <li>
+  <a href="">
+  Add an Image to your HTML Page
+  </a>
+  </li>
+
+  <li>
+  <a href="">
+  
+  </a>
+  </li>
+
 </ol>
 
 
