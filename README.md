@@ -13,7 +13,7 @@ Welcome to "30 Days of HTML" a repository with HTML challenges for beginners!
   </li>
   
   <li>
-  <a href="https://github.com/Alejandro-cj/30-dias-html/tree/main02%20-%20Add%20an%20image%20to%20your%20Html%20page">
+  <a href="https://github.com/Alejandro-cj/30-dias-html/tree/main/02%20-%20Add%20an%20image%20to%20your%20Html%20page">
   Add an Image to your HTML Page
   </a>
   </li>
